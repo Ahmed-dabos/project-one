@@ -90,9 +90,9 @@ body {
     width: 60%;
     transition: 0.6s;
 }
-.header .container .menu:hover span:nth-child(2) {
+/* .header .container .menu:hover span:nth-child(2) {
     width: 100%;
-}
+} */
 .header .container .menu ul {
     list-style: none;
     position: absolute;
@@ -112,9 +112,9 @@ body {
     border: 10px solid;
     border-color: transparent transparent rgb(246, 246, 246) transparent;
 }
-.header .container .menu:hover ul {
+/* .header .container .menu:hover ul {
     display: block;
-}
+} */
 .menu ul li  {
     padding: 15px 15px;
     transition: 0.6s;
